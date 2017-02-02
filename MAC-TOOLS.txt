@@ -1,0 +1,16 @@
+MAC OS X TOOLS
+——————————————
+1.install Homebrew
+   ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+2.install geckodriver
+   brew install geckodriver
+3.install wget
+   brew install wget --with-libressl 
+
+BrowserStack
+————————————
+1. https://www.browserstack.com/
+2. FREE TRIAL https://www.browserstack.com/users/sign_up
+3. LIVE & AUTOMATE MODE
+4. DEVELOPER TOOLS https://www.browserstack.com/developer-tools
+5. HOW TO USE SELENIUM. https://www.browserstack.com/support?tag=automate
