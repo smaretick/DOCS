@@ -1,0 +1,27 @@
+
+
+
+
+
+
+Name or Test Title:			Title of the test case
+
+Description/Summary of Test:	Determine the summary or test purpose in brief
+
+Pre-condition:				Any requirement that needs to be done before 							execution of this test case. To execute this test 						case list all pre-conditions
+
+Dependencies:				Determine any dependencies on test requirements or 						other test cases
+
+Test Steps:
+	•	Mention all the test steps in detail and write in the order in which it requires to be executed. While writing test steps ensure that you provide as much detail as you can
+
+Test Data:	Use of test data as an input for the test case. Deliver different data 		sets with precise values to be used as an input
+
+Expected Results:	Mention the expected result including error or message that 				should appear on screen
+
+Post-Condition:		What would be the state of the system after running the test 				case?
+
+Actual Result:		After test execution, actual test result should be filled
+
+Status (Fail/Pass):	Mark this field as failed, if actual result is not as per 				the estimated result
+
