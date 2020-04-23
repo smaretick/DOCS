@@ -1,0 +1,32 @@
+TEST PLAN
+---------
+1. Introduction
+2. Scope
+3. Test Strategy 
+4. Environment Requirements
+5. Test Schedule
+6. Control Procedures
+7. Functions To Be Tested
+8. Resources and Responsibilities
+9. Deliverables
+10. Exit Criteria
+11. Resumption Criteria
+12. Dependencies
+13. Risks
+14. Tools
+15. Documentation
+16. Approvals
+
+TEST CASE
+---------
+PROJECT NAME
+	TEST PRIORITY
+	MODULE NAME
+	TEST TITLE
+	DESCRIPTION
+	PRECONDITIONS
+	DEPENDENCIES
+		STEPS:TEST DATA:EXPECTED RESULT:ACTUAL RESULT:PASS/FAL
+
+
+
