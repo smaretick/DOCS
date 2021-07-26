@@ -1,0 +1,28 @@
+INSTALL/RUN SELENIUM MAC
+========================
+
+1. install Homebrew
+   ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/
+2.install geckodriver (FIREFOX)
+   brew install geckodriver
+3. install Selenium
+4.brew install selenium-server-standalone
+5.sudo easy_install selenium
+6. Install Python		
+https://www.python.org/downloads/
+brew install python
+7. Python 3  docs	
+https://docs.python.org/3/
+8. Selenium with Python	
+https://selenium-python.readthedocs.io/
+9. Cygwin			
+https://www.cygwin.com/
+
+INSTALL/RUN SELENIUM PC
+=======================
+Install Java/Eclipse/Selenium Windows 10
+https://mundrisoft.com/tech-bytes/install-selenium-webdriver-windows/
+Install Python 3 using the MSI available in python.org download page
+Selenium Installation
+https://selenium-python.readthedocs.io/installation.html
+
